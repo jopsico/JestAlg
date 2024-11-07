@@ -1,28 +1,21 @@
-# Projeto de Testes com Jest
+# Testes de algoritmos utilizando o Jest
 
-Este projeto contém uma série de funções implementadas em JavaScript e testes automatizados utilizando Jest.
+Essas funcionalidades foram projetadas para garantir um desempenho eficiente e uma experiência de usuário fluida, enquanto os testes automatizados asseguram a confiabilidade e a manutenção do código ao longo do tempo. O uso do Jest permite uma cobertura abrangente dos testes, identificando possíveis falhas e melhorando a qualidade do software.
 
-![example](https://github.com/user-attachments/assets/b1187ba7-db40-41b7-b8a8-42cba436ca1b)
-
-## Pré-requisitos
-Antes de começar, você precisa ter o **Node.js** instalado na sua máquina. Você pode verificar se o Node.js está instalado com o seguinte comando:
+## Para aplicar a funcionalidade para o teste, é necessário usar o gitBash para clonar.
+Clone o repositório do GitHub com o código a seguir:
 ```bash
-node -v
+git clone https://github.com/jopsico/JestAlg
 ```
-## Clonando o Repositório
-Para começar, clone o repositório do GitHub:
+Após clonar, navegue até o diretório do projeto por meio do código seguinte:
 ```bash
-git clone https://github.com/cauamapurunga/tests_jest
+cd JestAlg
 ```
-Após o clone, entre no diretório do projeto:
+## Instale a Dependência necessária
 ```bash
-cd tests_jest
+npm install --save-dev jest
 ```
-## Instalando as Dependências
-```bash
-npm install
-```
-## Execute os testes:
+## Execute os testes usando este comando:
 ```bash
 npm test
 ```
