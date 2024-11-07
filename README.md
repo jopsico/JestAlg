@@ -5,7 +5,7 @@ Essas funcionalidades foram projetadas para garantir um desempenho eficiente e u
 ## Para aplicar a funcionalidade para o teste, é necessário usar o gitBash para clonar.
 Clone o repositório do GitHub com o código a seguir:
 ```bash
-git clone https://github.com/jopsico/JestAlg
+git clone https://github.com/jopsico/JestAlg.git
 ```
 Após clonar, navegue até o diretório do projeto por meio do código seguinte:
 ```bash
