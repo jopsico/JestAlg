@@ -2,7 +2,7 @@
 
 Essas funcionalidades foram projetadas para garantir um desempenho eficiente e uma experiência de usuário fluida, enquanto os testes automatizados asseguram a confiabilidade e a manutenção do código ao longo do tempo. O uso do Jest permite uma cobertura abrangente dos testes, identificando possíveis falhas e melhorando a qualidade do software.
 
-## Para aplicar a funcionalidade para o teste com o github, é necessário usar o gitBash para clonar.
+## Para aplicar a funcionalidade de teste com o github, é necessário usar o gitBash para clonar.
 Clone o repositório do GitHub com o código a seguir:
 ```bash
 git clone https://github.com/jopsico/JestAlg.git
@@ -19,7 +19,7 @@ npm install --save-dev jest
 ```bash
 npm test
 ```
-## Para aplicar a funcionalidade para o teste com o Terminal do Vscode.
+## Para aplicar a funcionalidade de teste com o Terminal do Vscode.
 Abra a pasta pelo Vscode
 ```bash
 open folder
