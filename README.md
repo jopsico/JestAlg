@@ -11,11 +11,11 @@ Após clonar, navegue até o diretório do projeto por meio do código seguinte:
 ```bash
 cd JestAlg
 ```
-## Instale a Dependência necessária
+Instale a Dependência necessária
 ```bash
 npm install --save-dev jest
 ```
-## Execute os testes usando este comando:
+Execute os testes usando este comando:
 ```bash
 npm test
 ```
@@ -28,11 +28,11 @@ Clique em terminal e selecione:
 ```bash
 New terminal
 ```
-## Instale a Dependência necessária
+Instale a Dependência necessária
 ```bash
 npm install --save-dev jest
 ```
-## Execute os testes usando este comando:
+Execute os testes usando este comando:
 ```bash
 npm test
 ```
